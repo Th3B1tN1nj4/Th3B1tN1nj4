@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm' Davide</h1>
+<h1 align="center">Hi there👋, I'm Davide</h1>
 <h3 align="center">A passionate developer from Italy</h3>
 
 - 📫 How to reach me **contact@davidebaraldo.me**
