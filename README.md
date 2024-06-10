@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Davide</h1>
 <h3 align="center">A passionate developer from Italy</h3>
 
-- 📫 How to reach me **contact@davidebaraldo.me**
+- 📫 How to reach me **baraldodavide@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
